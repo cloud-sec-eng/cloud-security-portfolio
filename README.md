@@ -19,9 +19,27 @@ Projects are designed to demonstrate practical engineering capabilities, includi
 
 The portfolio distinguishes professional experience from independently completed lab projects. Projects are marked complete only after their functionality and security controls have been verified.
 
+## Flagship Enterprise Cloud Security Lab
+
+**[Explore the Enterprise Cloud Security Lab](https://github.com/cloud-sec-eng/enterprise-cloud-security-lab)**
+
+The flagship repository documents the design and progressive development of an enterprise-style Azure-first cloud security environment, with AWS integration planned for later phases.
+
+It includes:
+
+- Planned hub-and-spoke network architecture
+- Development, testing, and production-like environment design
+- Initial security principles and architecture decisions
+- Secure repository configuration and documentation structure
+
+**Current status:** Architecture planning and repository foundation established. Cloud infrastructure deployment and security validation have not yet begun.
+
+Engineering implementation evidence will be added as projects are completed.
+
 ## Enterprise Cloud Security Lab — Planned Architecture
 
 The portfolio is organized around a progressively expanding enterprise-style cloud environment designed to simulate real-world infrastructure security challenges.
+
 
 ### Initial Architecture
 

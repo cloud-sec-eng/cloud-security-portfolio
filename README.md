@@ -42,3 +42,33 @@ The environment will progressively incorporate Docker, Kubernetes, Azure Kuberne
 **Planned — Not Deployed**
 
 The architecture will be refined after assessing existing cloud resources, network addressing requirements, identity configurations, security controls, operational costs, and deployment dependencies.
+
+## Engineering Project Tracker
+
+This section tracks the development and validation of the enterprise cloud security portfolio.
+
+Projects are added progressively as work begins. A project is not considered complete until its implementation and security controls have been verified.
+
+| Project / Workstream | Status | Evidence |
+|---|---|---|
+| Enterprise Cloud Security Lab | Not Started | Architecture planning in progress |
+| Azure Infrastructure & Networking | Not Started | — |
+| Azure Identity & Access Security | Not Started | — |
+| Terraform Infrastructure Automation | Not Started | — |
+| Cloud Monitoring & Detection | Not Started | — |
+| DevSecOps & GitHub Actions | Not Started | — |
+| Docker, Kubernetes & AKS Security | Not Started | — |
+| AWS Infrastructure & EKS Security | Not Started | — |
+
+### Evidence Requirements
+
+Before a project is marked **Portfolio Ready**, it should include applicable evidence of:
+
+- Architecture and component communication
+- Security objectives and design decisions
+- Sanitized implementation files or infrastructure code
+- Functional and security validation
+- Troubleshooting and remediation
+- Clear documentation of personal contributions
+
+Individual project repositories will be linked as they are created, tested, and reviewed.
